@@ -104,10 +104,6 @@ To use this repository:
 
 ## Contributions
 Feel free to contribute by creating pull requests or reporting issues.
-
-## License
-This project is licensed under the MIT License.
-
 ---
 
 **Author:** [Raunit Patel]  
