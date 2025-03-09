@@ -96,7 +96,7 @@ To use this repository:
 4. Run Python scripts to process the datasets.
 
 ## Dependencies
-- Python 3.x
+- Python
 - Pandas
 - NumPy
 - Jupyter Notebook
