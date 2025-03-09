@@ -23,13 +23,15 @@ categories = {
     "Fashion": ["https://wwd.com/", "https://www.thecut.com/", "https://www.gq.com"],
     "Business": ["https://fortune.com/", "https://www.fastcompany.com/", "https://www.economist.com"],
     "Environment": ["https://e360.yale.edu/", "https://grist.org/", "https://www.theguardian.com/environment"],
-    "AI & Machine Learning": ["https://www.technologyreview.com/topic/artificial-intelligence/", "https://venturebeat.com/category/ai/", "https://www.towardsdatascience.com"],
+    "AI and Machine Learning": ["https://www.artificialintelligence-news.com", "https://indiaai.gov.in", "https://aimagazine.com"],
     "Automobiles": ["https://www.caranddriver.com/", "https://www.roadandtrack.com/", "https://www.autoblog.com"],
     "Cryptocurrency": ["https://decrypt.co/", "https://www.blockchainnews.com/", "https://www.cryptonews.com"],
-    "History": ["https://www.historytoday.com/", "https://www.historyextra.com/", "https://www.smithsonianmag.com/history"],
+    "History": ["https://www.worldhistory.org", "https://www.historyextra.com/", "https://www.britishmuseum.org/research/british-museum-publications"],
     "Startups": ["https://news.crunchbase.com/", "https://sifted.eu/", "https://www.startupgrind.com"],
     "Cybersecurity": ["https://www.wired.com/category/security/", "https://techcrunch.com/category/security/", "https://www.krebsonsecurity.com"]
 }
+
+
 
 output_dir = "text_dataset"
 os.makedirs(output_dir, exist_ok=True)
