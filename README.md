@@ -106,6 +106,6 @@ To use this repository:
 Feel free to contribute by creating pull requests or reporting issues.
 ---
 
-**Author:** Raunit Patel
+**Author:** Raunit Patel <br>
 **Date:** 9th March, 2025
 
