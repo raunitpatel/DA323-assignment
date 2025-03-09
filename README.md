@@ -35,6 +35,9 @@ DA323-ASSIGNMENT
 │   │   │── crime_against_women_2001_2012.csv
 │
 │── SEARCH_FOR_A_MATCH
+│   │── audio_only
+│   │── video_only
+│   │── submit_solution_mapping.csv
 │
 │── ANALYZING_FLAGS_AND_ANTHEMS
 │   │── anthems
@@ -74,7 +77,8 @@ This section contains datasets categorized into:
 - Includes a dataset on crime against women from 2001-2012.
 
 ### 2. **SEARCH FOR A MATCH**
-- A separate section that might contain a dataset or scripts related to pattern matching or comparison.
+- Contains subdirectories for `audio_only` and `video_only` data.
+- Includes `submit_solution_mapping.csv` for mapping solutions.
 
 ### 3. **ANALYZING FLAGS AND ANTHEMS**
 - Contains data on flags and anthems of various countries.
@@ -101,8 +105,11 @@ To use this repository:
 ## Contributions
 Feel free to contribute by creating pull requests or reporting issues.
 
+## License
+This project is licensed under the MIT License.
+
 ---
 
 **Author:** [Raunit Patel]  
-**Date:** [09th March, 2025]  
+**Date:** [9th March, 2025]  
 
