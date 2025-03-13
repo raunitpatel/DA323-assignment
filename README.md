@@ -36,8 +36,10 @@ DA323-ASSIGNMENT
 │
 │── SEARCH_FOR_A_MATCH
 │   │── audio_only
+|   │── combined_video
 │   │── video_only
-│   │── submit_solution_mapping.csv
+|   │── search_for_a_match(FINAL_SOLUTION).ipynb
+|   │── submission(FINAL_SOLUTION).csv
 │
 │── ANALYZING_FLAGS_AND_ANTHEMS
 │   │── anthems
@@ -77,8 +79,9 @@ This section contains datasets categorized into:
 - Includes a dataset on crime against women from 2001-2012.
 
 ### 2. **SEARCH FOR A MATCH**
-- Contains subdirectories for `audio_only` and `video_only` data.
-- Includes `submit_solution_mapping.csv` for mapping solutions.
+- Contains subdirectories for `audio_only` and `video_only` and `combined_video` data.
+- Includes `submission(FINAL_SOLUTION).csv` for mapping solutions.
+- Contains `search_for_a_match(FINAL_SOLUTION).ipynb` which is the final solution of the problem statement.
 
 ### 3. **ANALYZING FLAGS AND ANTHEMS**
 - Contains data on flags and anthems of various countries.
